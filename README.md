@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
-<h3 align="center">Software Engineer at Abesit</h3>
+<h3 align="center">Software Engineer Student at Abesit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-sharma002&label=Profile%20views&color=0e75b6&style=flat" alt="prince-sharma002" /> </p>
 
