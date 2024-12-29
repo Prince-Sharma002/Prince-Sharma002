@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-front-1.onrender.com/](https://portfolio-front-1.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-front-eta.vercel.app/](https://portfolio-front-eta.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@prince12845sharma](https://medium.com/@prince12845sharma)
 
